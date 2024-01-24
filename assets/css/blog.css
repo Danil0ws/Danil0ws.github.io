@@ -34,6 +34,7 @@ header {
   padding: 2rem 0 4rem 0;
 }
 header .site-title {
+  font-family: 'Bungee', sans-serif;
   font-size: 4rem;
   font-weight: bolder;
   line-height: 110%;
